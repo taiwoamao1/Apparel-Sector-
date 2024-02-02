@@ -63,6 +63,6 @@ The result of day 10 is not significant (<.353511), and 4 days before the event 
 Model 1- 3 results show differences in the number of companies. The results achieved in this research contained a 10-day event window from 14th February 2022 to 7th March 2022. Longer days are suggested for the study against the 10 days that have been applied. It is helpful for short-term investors. The effect of long and short periods can be assessed for future studies. Other areas in the manufacturing sector can be looked into, like food manufacturing, aside from the clothing companies. The research is limited to companies listed in the U.S. stock market. For future studies, the long-term effect of the current Ukraine war on the global supply chain could be examined (Maurya Prince et al., 2023).
 
 ### References
-WRDS- https://wrds-www.wharton.upenn.edu/pages/analytics/
-SPSS
+- WRDS- https://wrds-www.wharton.upenn.edu/pages/analytics/
+- SPSS
 
