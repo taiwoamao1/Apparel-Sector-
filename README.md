@@ -19,7 +19,15 @@ This data analysis is to test the following hypotheses
 - H2: The Ukraine war negatively impacts clothes manufacturing companies other than other manufacturing companies.
 - H3: The Ukraine war negatively impacts small manufacturing companies more than large manufacturing companies.
 
+
+
+
+  
+![second_business_analytics_assigment png_23](https://github.com/taiwoamao1/Apparel-Sector-/assets/112169247/7eaf9468-48d2-44fb-80a7-9f93f5d4b42a)
+
+
 ### Data sources
+
 Secondary data was used for the analysis sourced from Wharton  Research DATA Services.
 
 ### Tools 
